@@ -22,7 +22,7 @@
   "author": "Michaël Villeneuve",
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.5.10"
   },
   "peerDependencies": {
     "react-native-photo-view": "^1.5.1"
